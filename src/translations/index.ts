@@ -5870,7 +5870,7 @@ common_signUpFree: 'Tilmeld dig gratis',
   },
   pt: {
     delete_account: 'Eliminar Conta',
-    delete_account_pro_warning: 'Está prestes a eliminar a sua conta e tudo o que está armazenado localmente. Certifique-se de que cancela a sua subscrição nas definições do seu dispositivo! Tem a certeza de que pretende apagar tudo?',
+    delete_account_pro_warning: 'Estás prestes a eliminar a tua conta e tudo o que está armazenado localmente. Certifica-te de que cancelas a tua subscrição nas definições do teu dispositivo! Tem a certeza de que pretendes apagar tudo?',
     delete_local_data_warning: 'Não tem uma conta. Pretende eliminar todos os dados neste dispositivo?',
     deleting: 'A eliminar...',
     data_processing_notice_title: 'Aviso de Processamento de Dados',
